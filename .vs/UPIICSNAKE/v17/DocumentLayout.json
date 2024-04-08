@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Source\\Repos\\upicsanake\\UPIICSNAKE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8253787E-ADD3-4CC8-B171-D602324B2F97}|UPIICSNAKE\\UPIICSNAKE.csproj|e:\\source\\repos\\upicsanake\\upiicsnake\\upiicsnake\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8253787E-ADD3-4CC8-B171-D602324B2F97}|UPIICSNAKE\\UPIICSNAKE.csproj|solutionrelative:upiicsnake\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8253787E-ADD3-4CC8-B171-D602324B2F97}|UPIICSNAKE\\UPIICSNAKE.csproj|E:\\Source\\Repos\\upicsanake\\UPIICSNAKE\\UPIICSNAKE\\Form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8253787E-ADD3-4CC8-B171-D602324B2F97}|UPIICSNAKE\\UPIICSNAKE.csproj|solutionrelative:UPIICSNAKE\\Form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form12.cs",
+              "DocumentMoniker": "E:\\Source\\Repos\\upicsanake\\UPIICSNAKE\\UPIICSNAKE\\Form12.cs",
+              "RelativeDocumentMoniker": "UPIICSNAKE\\Form12.cs",
+              "ToolTip": "E:\\Source\\Repos\\upicsanake\\UPIICSNAKE\\UPIICSNAKE\\Form12.cs",
+              "RelativeToolTip": "UPIICSNAKE\\Form12.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:06:02.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form12.cs",
+              "DocumentMoniker": "E:\\Source\\Repos\\upicsanake\\UPIICSNAKE\\UPIICSNAKE\\Form12.cs",
+              "RelativeDocumentMoniker": "UPIICSNAKE\\Form12.cs",
+              "ToolTip": "E:\\Source\\Repos\\upicsanake\\UPIICSNAKE\\UPIICSNAKE\\Form12.cs",
+              "RelativeToolTip": "UPIICSNAKE\\Form12.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:06:02.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
